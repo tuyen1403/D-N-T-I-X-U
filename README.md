@@ -1,14 +1,15 @@
 DỰ ÁN: PHÂN TÍCH VÀ MÔ PHỎNG CHIẾN THUẬT QUẢN LÝ VỐN TRONG TRÒ CHƠI TÀI XỈU 
+
 0. CÁCH CHƠI
-a. Dụng cụ 
-Dụng cụ: Sử dụng 3 viên xúc xắc (xí ngầu), mỗi viên có 6 mặt đánh số từ 1 đến 6.
-Cách thức: Người chơi đặt cược vào kết quả tổng số điểm của 3 viên xúc xắc sau khi nhà cái lắc .
-b. Hai cửa cược chính
-Cửa Xỉu: Thắng khi tổng điểm 3 viên xúc xắc từ 4 đến 10.
-Cửa Tài: Thắng khi tổng điểm 3 viên xúc xắc từ 11 đến 17.
-c. Đặc điểm
-Tính may rủi cao: Kết quả hoàn toàn dựa trên sự ngẫu nhiên của các viên xúc xắc.
-Nhịp độ nhanh: Mỗi ván chơi thường diễn ra rất ngắn, chỉ trong khoảng 1 phút.
+   a. Dụng cụ 
+    Sử dụng 3 viên xúc xắc (xí ngầu), mỗi viên có 6 mặt đánh số từ 1 đến 6.
+   Cách thức: Người chơi đặt cược vào kết quả tổng số điểm của 3 viên xúc xắc sau khi nhà cái lắc .
+   b. Hai cửa cược chính
+   Cửa Xỉu: Thắng khi tổng điểm 3 viên xúc xắc từ 4 đến 10.
+   Cửa Tài: Thắng khi tổng điểm 3 viên xúc xắc từ 11 đến 17.
+   c. Đặc điểm
+   Tính may rủi cao: Kết quả hoàn toàn dựa trên sự ngẫu nhiên của các viên xúc xắc.
+   Nhịp độ nhanh: Mỗi ván chơi thường diễn ra rất ngắn, chỉ trong khoảng 1 phút.
 Với cách chơi đơn giản tài xỉu luôn thu hút nhiều lượt người chơi, đặc biệt với hình thức online chỉ với một chiếc điện thoại hay máy tính bạn có thể chơi ở bất kỳ đâu và bất kỳ thời điểm nào
 1. Giới thiệu: Từ trò chơi may rủi đến mô hình toán học Tài xỉu (Over/Under) không chỉ đơn thuần là việc dự đoán tổng số điểm của 03 viên xúc xắc. Trong dự án này, chúng ta không xây dựng một trò chơi để giải trí; chúng ta xây dựng một Hệ thống giả lập tự động (Simulation Engine). Hệ thống này có khả năng thực hiện hàng vạn ván cược trong tích tắc để phân tích hành vi của vốn (bankroll) dưới tác động của các thuật toán đặt cược khác nhau
 2. Phân tích luật chơi của code
