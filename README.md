@@ -1,3 +1,9 @@
+*CHÚ Ý MỌI NGƯỜI KHI TẢI FILE ZIP VỀ EXTRACT XONG VÀ CHẠY SẼ ĐƯỢC 
+
+file taixiu_vs(4).zip sẽ chạy số ván với nhiều lần sẽ cho ra kết quả thống kê dễ hơn
+
+file updated sẽ chỉ chạy số ván 1 lần 
+
 DỰ ÁN: PHÂN TÍCH VÀ MÔ PHỎNG CHIẾN THUẬT QUẢN LÝ VỐN TRONG TRÒ CHƠI TÀI XỈU 
 
 0. CÁCH CHƠI
