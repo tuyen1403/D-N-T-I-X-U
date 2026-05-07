@@ -1,0 +1,4 @@
+strategy,avg_final,median_final,stdev,avg_peak,avg_low,avg_winrate,avg_survival,bust_pct,profit_pct,roi
+Martingale,0.00,0.00,0.00,108116875.00,0.00,49.91,27.78,100.00,0.00,-100.00
+Paroli,0.00,0.00,0.00,102002662.50,0.00,49.98,47.35,100.00,0.00,-100.00
+Fibonacci,0.00,0.00,0.00,106550012.50,0.00,49.93,31.62,100.00,0.00,-100.00
